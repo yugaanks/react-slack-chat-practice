@@ -16,7 +16,7 @@ class App extends Component {
             <div className="App-body">
                 <ReactSlackChat
                     botName='Demon'
-                    apiToken='eG94Yi0yOTA0MDkwMTI4NjgtU29ROGVXb2tvTXM4RWVVMEJYT2FPT3lQ'
+                    apiToken='api-token-in-base64-encoded-format-can't-show-it-to-you'
                     channels={[
                         {
                             name: 'random'
